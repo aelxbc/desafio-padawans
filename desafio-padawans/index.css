@@ -1,0 +1,25 @@
+.home {
+    text-align: center;
+    font-size: 75px;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tabela {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+td, tr, table {
+    border: 1px solid black;
+    text-align: center;
+}
